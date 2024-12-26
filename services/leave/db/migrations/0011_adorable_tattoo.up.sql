@@ -1,0 +1,1 @@
+ALTER TABLE "leave_request" RENAME COLUMN "review_date" TO "review_timestamp";

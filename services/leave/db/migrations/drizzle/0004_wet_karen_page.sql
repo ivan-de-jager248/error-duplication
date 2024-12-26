@@ -1,0 +1,1 @@
+ALTER TABLE "leave_request" ADD COLUMN "working_days" real DEFAULT 0 NOT NULL;

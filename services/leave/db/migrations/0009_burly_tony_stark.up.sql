@@ -1,0 +1,1 @@
+ALTER TABLE "leave_request" RENAME COLUMN "approver_id" TO "reviewer_id";

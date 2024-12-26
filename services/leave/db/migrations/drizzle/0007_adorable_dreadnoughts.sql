@@ -1,0 +1,1 @@
+ALTER TABLE "leave_request" RENAME COLUMN "approval_date" TO "review_date";
